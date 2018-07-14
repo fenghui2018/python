@@ -35,7 +35,7 @@ python的文件类型本质上是对操作系统文件的一个映射。底层�
 
 > 那存储中文的文件是不是文本文件呢？
 
-具体操作详见l_file.py
+具体操作详见l_file_text.py和l_file_binary.py
 
 ##### png文件格式简介
 
