@@ -61,3 +61,12 @@ mypackage/
     __init__.py
     b.py
 ```
+
+##### 相对导入
+
+相对导入只能在同一个包中使用。其作用: 避免覆盖标准库
+
+```
+from . import string
+from .. import string
+```
